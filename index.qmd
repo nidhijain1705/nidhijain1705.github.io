@@ -1,0 +1,126 @@
+---
+pagetitle: "Nidhi Jain — Economist"
+---
+
+```{=html}
+<section class="es-hero">
+  <div class="es-hero-grid">
+    <div>
+      <div class="es-eyebrow es-reveal es-d1">Economist · Microeconomic Theory</div>
+      <h1 class="es-name es-reveal es-d1">Nidhi <em>Jain</em></h1>
+      <p class="es-tagline es-reveal es-d2">I study how <span class="hl">information, media, and incentives</span> shape political and market outcomes.</p>
+    </div>
+    <div class="es-motif es-reveal es-d3" aria-hidden="true">
+      <svg viewBox="0 0 420 300" fill="none" stroke="#8E2433">
+        <g stroke-width="1.4" opacity="0.9">
+          <line x1="60" y1="150" x2="180" y2="70"/>
+          <line x1="60" y1="150" x2="180" y2="230"/>
+          <line x1="180" y1="70" x2="320" y2="35"/>
+          <line x1="180" y1="70" x2="320" y2="105"/>
+          <line x1="180" y1="230" x2="320" y2="195"/>
+          <line x1="180" y1="230" x2="320" y2="265"/>
+        </g>
+        <g fill="#F4F0E7" stroke="#8E2433" stroke-width="1.6">
+          <circle cx="60" cy="150" r="9"/>
+          <circle cx="180" cy="70" r="7"/>
+          <circle cx="180" cy="230" r="7"/>
+        </g>
+        <g fill="#8E2433" stroke="none">
+          <rect x="313" y="28" width="14" height="14"/>
+          <rect x="313" y="98" width="14" height="14"/>
+          <rect x="313" y="188" width="14" height="14"/>
+          <rect x="313" y="258" width="14" height="14"/>
+        </g>
+        <text class="lbl" x="40" y="180">player 1</text>
+        <text class="lbl" x="150" y="55">player 2</text>
+        <text class="lbl" x="338" y="40">payoff</text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<hr class="es-rule">
+
+<section class="es-about">
+  <div class="es-sec-label">About</div>
+  <div>
+    <p>I am an economist working in <strong>microeconomic theory</strong>, <strong>political economy</strong>, and <strong>information economics</strong>. I completed my PhD at Shiv Nadar University in 2024, and I currently teach microeconomics and game theory at NYU Abu Dhabi.</p>
+    <p>My research asks how the way information is produced and shared &mdash; through the media, elections, and markets &mdash; changes the choices that people and institutions make. I am drawn to questions where a clean model can sharpen an argument that is otherwise easy to wave away.</p>
+  </div>
+</section>
+
+<hr class="es-rule">
+
+<section class="es-work">
+  <div class="es-work-head">
+    <h2>Selected work</h2>
+    <a class="es-more" href="research.html">All research &rarr;</a>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">2022</div>
+    <div>
+      <div class="ttl">Commercial media threatens democratic responsiveness</div>
+      <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy</div>
+    </div>
+    <span class="venue">Economics Letters</span>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Ideological advantage and political misfortune</div>
+      <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Timing of the Tie-Breaker</div>
+      <div class="meta">with Sumit Goel &amp; Amit Goyal</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Brand Ambassadors: Bundling versus Unbundling</div>
+      <div class="meta">with Saptarshi P. Ghosh</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+</section>
+```
+
+::: {.es-eq-note}
+[Math renders natively]{.k}
+An agent maximizes $\mathbb{E}\big[\, u(a,\theta) \mid s \,\big] = \sum_{\theta} u(a,\theta)\,\Pr(\theta \mid s)$, and it typesets cleanly in the body, in abstracts, and in blog posts alike.
+:::
+
+```{=html}
+<section class="es-cards">
+  <a class="es-card" href="research.html">
+    <span class="num">01</span>
+    <span class="ct">Research</span>
+    <span class="cs">Papers, working papers, and abstracts. <span class="arrow">&rarr;</span></span>
+  </a>
+  <a class="es-card" href="teaching.html">
+    <span class="num">02</span>
+    <span class="ct">Teaching</span>
+    <span class="cs">Courses at NYUAD, Ashoka &amp; SNU. <span class="arrow">&rarr;</span></span>
+  </a>
+  <a class="es-card" href="cv.html">
+    <span class="num">03</span>
+    <span class="ct">CV</span>
+    <span class="cs">Full curriculum vitae (PDF). <span class="arrow">&rarr;</span></span>
+  </a>
+  <a class="es-card" href="blog.html">
+    <span class="num">04</span>
+    <span class="ct">Blog</span>
+    <span class="cs">Notes on theory and teaching. <span class="arrow">&rarr;</span></span>
+  </a>
+</section>
+```

@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Nidhi Jain"
+  description: "Nidhi Jain — economist working in microeconomic theory, political economy, and information economics."
+  site-url: "https://nidhijain1705.github.io"
+  favicon: assets/favicon.svg
+  navbar:
+    pinned: false
+    title: "Nidhi Jain"
+    right:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    background: "#1B1613"
+    border: false
+    left: |
+      © 2026 Nidhi Jain
+    center: |
+      [Email](/contact.html) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/) &nbsp;·&nbsp; [GitHub](https://github.com/nidhijain1705) &nbsp;·&nbsp; [CV](/assets/cv/CV_NidhiJain.pdf)
+    right: |
+      Built with [Quarto](https://quarto.org) · hosted on GitHub Pages
+
+format:
+  html:
+    theme: [default, theme.scss]
+    css: styles.css
+    include-in-header: head-custom.html
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    grid:
+      body-width: 1100px

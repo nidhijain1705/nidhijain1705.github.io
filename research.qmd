@@ -1,0 +1,51 @@
+---
+title: "Research"
+---
+
+I work in microeconomic theory, political economy, and information economics. Below are my published and ongoing papers. Abstracts and links will be added as drafts circulate.
+
+```{=html}
+<section class="es-work">
+  <div class="es-work-head"><h2>Publications</h2></div>
+
+  <div class="es-paper">
+    <div class="yr">2022</div>
+    <div>
+      <div class="ttl">Commercial media threatens democratic responsiveness</div>
+      <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy &middot; <em>Economics Letters</em></div>
+    </div>
+    <span class="venue">Economics Letters</span>
+  </div>
+</section>
+
+<section class="es-work" style="padding-top:1.5rem;">
+  <div class="es-work-head"><h2>Working papers</h2></div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Ideological advantage and political misfortune</div>
+      <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Timing of the Tie-Breaker</div>
+      <div class="meta">with Sumit Goel &amp; Amit Goyal</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+
+  <div class="es-paper">
+    <div class="yr">w.p.</div>
+    <div>
+      <div class="ttl">Brand Ambassadors: Bundling versus Unbundling</div>
+      <div class="meta">with Saptarshi P. Ghosh</div>
+    </div>
+    <span class="venue wp">Working paper</span>
+  </div>
+</section>
+```

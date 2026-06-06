@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  feed: true
+---
+
+Occasional notes on economic theory, teaching, and things I'm working through.

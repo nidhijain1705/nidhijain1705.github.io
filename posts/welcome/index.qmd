@@ -1,0 +1,19 @@
+---
+title: "A first note"
+description: "Why this blog exists, and a small example of writing mathematics here."
+date: "2026-07-01"
+categories: [notes]
+draft: false
+---
+
+This is a placeholder post — feel free to delete it once you've written a real one. It's here to show how a post looks and to confirm that mathematics typesets correctly.
+
+I intend to use this space for short, honest notes: a result I found clean, a teaching idea that worked, or a question I'm still chewing on.
+
+Mathematics works inline, like a posterior $\Pr(\theta \mid s) = \dfrac{\Pr(s \mid \theta)\,\Pr(\theta)}{\sum_{\theta'} \Pr(s \mid \theta')\,\Pr(\theta')}$, and as a display:
+
+$$
+\max_{a \in A}\; \sum_{\theta \in \Theta} u(a, \theta)\, \Pr(\theta \mid s).
+$$
+
+To write your own post, copy the `posts/welcome` folder, rename it, and edit the title, date, and text. That's the whole workflow.

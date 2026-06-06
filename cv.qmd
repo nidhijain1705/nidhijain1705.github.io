@@ -1,0 +1,34 @@
+---
+title: "Curriculum Vitae"
+---
+
+A short summary is below; the full CV is available as a PDF.
+
+```{=html}
+<p style="margin:1.5rem 0 2.2rem;">
+  <a class="es-btn" href="assets/cv/CV_NidhiJain.pdf">Download CV (PDF) &darr;</a>
+</p>
+```
+
+**Education**
+
+- PhD, Economics — Shiv Nadar University, 2024 (advisor: Saptarshi P. Ghosh)
+- MA, Economics — Delhi School of Economics, 2013
+- BA (Hons), Economics — Hansraj College, University of Delhi, 2010
+
+**Current position**
+
+- Instructor, Economics — New York University Abu Dhabi (2023 –)
+
+**Fields**
+
+- Research: microeconomic theory, political economy, information economics
+- Teaching: microeconomics, game theory, mathematical methods, corporate finance
+
+**Before academia**
+
+- Quantitative Analyst, Tata Consultancy Services (2013–2015) — model monitoring and validation for retail-banking scorecards under Basel guidelines.
+
+**Software**
+
+- R, LaTeX, SAS

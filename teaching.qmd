@@ -1,0 +1,54 @@
+---
+title: "Teaching"
+---
+
+I teach microeconomics, game theory, and mathematical methods, mostly to students preparing for serious graduate study. My teaching interests include microeconomics, game theory, mathematical methods, and corporate finance.
+
+```{=html}
+<div class="es-teach-block">
+  <div class="es-teach-inst">New York University Abu Dhabi</div>
+  <div class="es-teach-role">Instructor · Fall 2023 –</div>
+  <ul>
+    <li>Economics of Imperfect Markets (undergraduate)</li>
+    <li>Microeconomics (graduate)</li>
+    <li>Game Theory (graduate)</li>
+  </ul>
+</div>
+
+<div class="es-teach-block">
+  <div class="es-teach-inst">Ashoka University</div>
+  <div class="es-teach-role">Visiting Faculty &amp; Teaching Fellow · 2022–2023</div>
+  <ul>
+    <li>Introduction to Corporate Finance (visiting faculty, Spring 2023)</li>
+    <li>Machine Learning for Economics (teaching fellow, Summer 2022)</li>
+  </ul>
+</div>
+
+<div class="es-teach-block">
+  <div class="es-teach-inst">Shiv Nadar University</div>
+  <div class="es-teach-role">Co-instructor &amp; Graduate Teaching Assistant · 2018–2019</div>
+  <ul>
+    <li>Game Theory (co-instructor, undergraduate, Spring 2019)</li>
+    <li>Microeconomics (teaching assistant, 2018–2019)</li>
+    <li>Game Theory (teaching assistant, Spring 2018)</li>
+  </ul>
+</div>
+
+<div class="es-teach-block">
+  <div class="es-teach-inst">EconSchool</div>
+  <div class="es-teach-role">Instructor · 2015 –</div>
+  <ul>
+    <li>Tutorials and problem-solving sessions for graduate-bound students</li>
+    <li>Free MOOCs built on the Open edX platform</li>
+    <li>Learning materials developed with R, LaTeX, and Camtasia</li>
+  </ul>
+</div>
+
+<div class="es-teach-block">
+  <div class="es-teach-inst">Meghnad Desai Academy of Economics</div>
+  <div class="es-teach-role">Visiting Faculty · 2016</div>
+  <ul>
+    <li>Microeconomics (foundation course)</li>
+  </ul>
+</div>
+```
