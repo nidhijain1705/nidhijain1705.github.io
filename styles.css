@@ -80,6 +80,12 @@
 .es-eq-note .k { font-family: "Spline Sans Mono", monospace; font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: .5rem; }
 .es-eq-note p { font-size: 1.02rem; color: var(--ink-2); margin: 0; }
 
+.es-eq-flex { display: flex; gap: 1.8rem; align-items: center; flex-wrap: wrap; margin-top: .4rem; }
+.es-eq-text { flex: 1 1 220px; min-width: 200px; }
+.es-eq-text p { margin: 0 0 .4rem; }
+.es-eq-graph { flex: 0 1 320px; min-width: 240px; }
+.es-eq-graph svg { width: 100%; height: auto; display: block; }
+
 /* ---------- QUICK-NAV CARDS ---------- */
 .es-cards { padding: clamp(2.5rem, 5vw, 4rem) 0 1rem; display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
 .es-card { background: var(--card); border: 1px solid var(--hair-soft); border-radius: 8px; padding: 1.4rem 1.3rem; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: .4rem; min-height: 138px; transition: transform .25s, border-color .25s, box-shadow .25s; }

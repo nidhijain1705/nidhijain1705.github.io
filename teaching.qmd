@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I teach microeconomics, game theory, and mathematical methods, mostly to students preparing for serious graduate study. My teaching interests include microeconomics, game theory, mathematical methods, and corporate finance.
+My teaching interests include microeconomics, game theory, mathematical methods, and corporate finance.
 
 ```{=html}
 <div class="es-teach-block">

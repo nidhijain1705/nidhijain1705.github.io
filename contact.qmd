@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-I'm happy to hear from students working toward graduate study, and from colleagues interested in the questions above.
+I'm happy to hear from you.
 
 **Email** — nidhi&nbsp;\[at\]&nbsp;econschool.in
 
@@ -14,11 +14,11 @@ Abu Dhabi, United Arab Emirates
 
 **Around the web**
 
-- [Google Scholar](https://scholar.google.com/) <!-- TODO: replace with Nidhi's Scholar profile URL -->
-- [ORCID](https://orcid.org/) <!-- TODO: replace with Nidhi's ORCID URL, or delete this line -->
+- [Linkedin](https://www.linkedin.com/in/nidhi-jain-b33072255/)
 - [GitHub](https://github.com/nidhijain1705)
 
+
 ::: {.callout-note collapse="true"}
-## A note on the email format
-The address is written as `nidhi [at] econschool.in` rather than a clickable link to cut down on automated scraping. To make it a normal clickable link instead, replace that line with `[nidhi@econschool.in](mailto:nidhi@econschool.in)`.
+## Email is best
+The best way to reach me is via email. The address is written as `nidhi [at] econschool.in` rather than a clickable link to cut down on automated scraping.
 :::

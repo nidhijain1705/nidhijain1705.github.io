@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-I work in microeconomic theory, political economy, and information economics. Below are my published and ongoing papers. Abstracts and links will be added as drafts circulate.
+I work in microeconomic theory, political economy, and information economics. Below are my published and ongoing papers.
 
 ```{=html}
 <section class="es-work">
