@@ -5,7 +5,7 @@ project:
 website:
   title: "Nidhi Jain"
   description: "Nidhi Jain — economist working in microeconomic theory, political economy, and information economics."
-  site-url: "https://nidhijain1705.github.io"
+  site-url: "https://nidhijain.in"
   favicon: assets/favicon.svg
   navbar:
     pinned: false
