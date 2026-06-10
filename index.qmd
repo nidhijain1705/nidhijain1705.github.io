@@ -58,9 +58,9 @@ pagetitle: "Nidhi Jain — Economist"
   </div>
 
   <div class="es-paper">
-    <div class="yr">2022</div>
+    <div class="yr">2023</div>
     <div>
-      <div class="ttl">Commercial media threatens democratic responsiveness</div>
+      <div class="ttl">Responsive democracy and commercial media</div>
       <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy</div>
     </div>
     <span class="venue">Economics Letters</span>

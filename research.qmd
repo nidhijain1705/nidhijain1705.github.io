@@ -9,9 +9,9 @@ I work in microeconomic theory, political economy, and information economics. Be
   <div class="es-work-head"><h2>Publications</h2></div>
 
   <div class="es-paper">
-    <div class="yr">2022</div>
+    <div class="yr">2023</div>
     <div>
-      <div class="ttl">Commercial media threatens democratic responsiveness</div>
+      <div class="ttl">Responsive democracy and commercial media</div>
       <div class="meta">with Saptarshi P. Ghosh, C&eacute;sar Martinelli &amp; Jaideep Roy &middot; <em>Economics Letters</em></div>
     </div>
     <span class="venue">Economics Letters</span>
