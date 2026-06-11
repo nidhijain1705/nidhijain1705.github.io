@@ -44,8 +44,8 @@ pagetitle: "Nidhi Jain — Economist"
 <section class="es-about">
   <div class="es-sec-label">About</div>
   <div>
-    <p>I am an economist working in <strong>microeconomic theory</strong>, <strong>political economy</strong>, and <strong>information economics</strong>. I completed my PhD at Shiv Nadar University in 2024, and I currently teach microeconomics and game theory at NYU Abu Dhabi.</p>
-    <p>My research asks how the way information is produced and shared &mdash; through the media, elections, and markets &mdash; changes the choices that people and institutions make. I am drawn to questions where a clean model can sharpen an argument that is otherwise easy to wave away.</p>
+    <p>I am an economist working in <strong>microeconomic theory</strong>, <strong>political economy</strong>, and <strong>information economics</strong>. I completed my PhD at Shiv Nadar University in 2024 and currently support Microeconomics courses at New York University Abu Dhabi by conducting recitation sessions and providing academic support.</p>
+    <p>My research asks how the way information is produced and shared &mdash; through the media, elections, and markets &mdash; changes the choices that people and institutions make. </p>
   </div>
 </section>
 

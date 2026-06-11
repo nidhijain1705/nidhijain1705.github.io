@@ -7,9 +7,10 @@ My teaching interests include microeconomics, game theory, mathematical methods,
 ```{=html}
 <div class="es-teach-block">
   <div class="es-teach-inst">New York University Abu Dhabi</div>
-  <div class="es-teach-role">Instructor · Fall 2023 –</div>
+  <div class="es-teach-role">Academic Specialist · Fall 2023 –</div>
   <ul>
     <li>Economics of Imperfect Markets (undergraduate)</li>
+    <li>Advanced Microeconomics (undergraduate)</li>
     <li>Microeconomics (graduate)</li>
     <li>Game Theory (graduate)</li>
   </ul>
